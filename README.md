@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrMoreira&theme=dracula" alt="MrMoreira" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script, C++**
+- 🌱 I’m currently learning **Java Script, JAVA**,**PHP**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **caique@mrmoreira.com**
 - 👨‍💻 All of my projects are available at **https://github.com/MrMoreira**
